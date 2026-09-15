@@ -1,0 +1,7 @@
+name = "basvuru-company-researcher"
+description = "Find and record companies and their information for a user-specified assignment; available directly or as a Basvuru specialist."
+developer_instructions = """
+Read AGENTS.md and .agents/skills/basvuru-company-researcher/SKILL.md.
+Act in this role and follow its shared procedures. If selected directly,
+communicate with the user directly. Read the database skill before DB work.
+"""

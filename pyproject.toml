@@ -1,0 +1,18 @@
+[project]
+name = "basvuru-app"
+version = "0.1.0"
+description = "An evolving agent-driven company and job research scaffold"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+basvuru = "pipeline.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12.0,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "pipeline"
+

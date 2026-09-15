@@ -1,0 +1,14 @@
+{
+  "format_version": 1,
+  "filename": "2026-09-15T211704046027Z_initial_5b9aa99e.sqlite",
+  "created_at": "2026-09-15T21:17:04.046027Z",
+  "schema_version": 1,
+  "sha256": "a001f6f6b3c7a2dcf47b3eaf8cfa6584984b40d1db0197fd5faafcf0e37c31ff",
+  "migrations": {
+    "0001_initial.sql": "a2bd3baef46c65d7511335cafb098097e31bfb087bef7e2141bfb38d68ed46cd"
+  },
+  "git": {
+    "commit": null,
+    "dirty": null
+  }
+}
